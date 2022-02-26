@@ -1,3 +1,6 @@
+
+Hey! 🎈
+
 ▪︎ Eu sou Juan Melo
 
 ▪︎ Estudante de Ciência da Computação na UFF
