@@ -5,9 +5,8 @@ Hey! 🎈
 
 ▪︎ Estudante de Ciência da Computação na UFF
 
-▪︎ Atualmente no terceiro período
+▪︎ Atualmente no Quarto Período
 
-▪︎ Aprendendo JavaScript
 
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeloJu&show_icons=true&theme=tokyonight"/>   
