@@ -5,7 +5,7 @@ Hey! 🎈
 
 ▪︎ Estudante de Ciência da Computação na UFF
 
-▪︎ Atualmente no Quarto Período
+▪︎ Atualmente no 7º período
 
 
 
